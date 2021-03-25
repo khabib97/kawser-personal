@@ -1,15 +1,15 @@
 ### Hello there, I am Kawser Habib ! 👋
 
+[![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/khabib973)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/khabib97)
+
+<br/>
 
 | GitHub | Stackoverflow Status |
 | --------------- | -------------------- |
 | ![Visitors](https://komarev.com/ghpvc/?username=khabib97&color=brightgreen) | <a href="https://stackoverflow.com/users/9457633/eyllanesc"><img src="https://stackoverflow.com/users/flair/9457633.png" width="208" height="58" alt="Profile for Kawser at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="Profile for Kawser at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> |
 
-
-[![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/khabib973)
-[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/khabib97)
 <br/>
-
 
 
 * ⚡ I am a Software Developer and Engineer. 
