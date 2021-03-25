@@ -21,7 +21,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khabib97&langs_count=7&hide=css&layout=compact)](https://github.com/khabib97/github-readme-stats)
 
 ### Languages and Tools:
-<p align="right">
+<p align="left">
 <img 
      src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" 
      alt="Java" height="80" style="vertical-align:top; margin:4px">
@@ -40,17 +40,17 @@
 </p>
 
 ### Frameworks:
-<p align="right">
+<p align="left">
 <img 
      src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" 
-     alt="spring" height="40" style="vertical-align:top; margin:10px">
+     alt="spring" height="50" style="vertical-align:top; margin:10px">
 <img 
      src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" 
-     alt="spring-boot" height="40" style="vertical-align:top; margin:10px">
+     alt="spring-boot" height="50" style="vertical-align:top; margin:10px">
 <img 
      src="https://www.logolynx.com/images/logolynx/08/08bc1e1ab432c9d956566b235925dd47.png" 
-     alt="NodeJS" height="40" style="vertical-align:top; margin:10px">
+     alt="NodeJS" height="50" style="vertical-align:top; margin:10px">
 <img 
      src="https://www.fastify.io/images/fastify-logo-menu.d13f8da7a965c800.png"
-     alt="expressJS" height="40" style="vertical-align:top; margin:10px">
+     alt="expressJS" height="50" style="vertical-align:top; margin:10px">
 </p>
