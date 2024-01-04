@@ -35,19 +35,3 @@
      src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png" 
      alt="Bootstrap" height="50" style="vertical-align:top; margin:4px">
 </p>
-
-### Frameworks:
-<p align="left">
-<img 
-     src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" 
-     alt="spring" height="50" style="vertical-align:top; margin:10px">
-<img 
-     src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" 
-     alt="spring-boot" height="50" style="vertical-align:top; margin:10px">
-<img 
-     src="https://www.logolynx.com/images/logolynx/08/08bc1e1ab432c9d956566b235925dd47.png" 
-     alt="NodeJS" height="50" style="vertical-align:top; margin:10px">
-<img 
-     src="https://www.fastify.io/images/fastify-logo-menu.d13f8da7a965c800.png"
-     alt="expressJS" height="50" style="vertical-align:top; margin:10px">
-</p>
