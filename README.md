@@ -1,4 +1,4 @@
-### Hello there, I am Kawser Habib ! 👋
+### Hello there, I am MK Habib ! 👋
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/khabib97)
 [![Twitter URL](https://img.shields.io/static/v1?color=deepskyblue&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/khabib973)
@@ -12,9 +12,6 @@
 
 
 * ⚡ I am a Software Developer and Engineer. 
-* ✍️ I write blogs at [তত্ত্ব কথায় গল্প](https://kawserhabib.com) and [Medium Blog](https://khabib97.medium.com/)
-* 🌱 I’m currently learning Docker, Kubernetes, Microservice Architecture
-* 💬 Ask me about Software Design in [email](mailto:kawser.habib.dev@gmail.com)
 <br />
 
 ![Kawser's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khabib97&show_icons=true&theme=dracula)
