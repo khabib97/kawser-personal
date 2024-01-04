@@ -5,9 +5,9 @@
 | ![Visitors](https://komarev.com/ghpvc/?username=khabib97&color=brightgreen) | <a href="https://stackoverflow.com/users/9457633/eyllanesc"><img src="https://stackoverflow.com/users/flair/9457633.png" width="208" height="58" alt="Profile for Kawser at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="Profile for Kawser at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> |
 
 <br/>
-* ⚡ Software Engineer.
-* ⚡ Backend Engineer.
-* ⚡ 8+ years. 
+⚡ Software Engineer.
+⚡ Backend Engineer.
+⚡ 8+ years. 
 <br />
 
 ![Kawser's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khabib97&show_icons=true&theme=dracula)
