@@ -1,17 +1,13 @@
 ### Hello there, I am MK Habib ! 👋
 
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/khabib97)
-[![Twitter URL](https://img.shields.io/static/v1?color=deepskyblue&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/khabib973)
-
-
 | GitHub | Stackoverflow Status |
 | --------------- | -------------------- |
 | ![Visitors](https://komarev.com/ghpvc/?username=khabib97&color=brightgreen) | <a href="https://stackoverflow.com/users/9457633/eyllanesc"><img src="https://stackoverflow.com/users/flair/9457633.png" width="208" height="58" alt="Profile for Kawser at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="Profile for Kawser at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> |
 
 <br/>
-
-
-* ⚡ I am a Software Developer and Engineer. 
+* ⚡ Software Engineer.
+* ⚡ Backend Engineer.
+* ⚡ 8+ years. 
 <br />
 
 ![Kawser's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khabib97&show_icons=true&theme=dracula)
