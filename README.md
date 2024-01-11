@@ -2,15 +2,15 @@
 
 | GitHub | Stackoverflow Status |
 | --------------- | -------------------- |
-| ![Visitors](https://komarev.com/ghpvc/?username=khabib97&color=brightgreen) | <a href="https://stackoverflow.com/users/9457633/eyllanesc"><img src="https://stackoverflow.com/users/flair/9457633.png" width="208" height="58" alt="Profile for Kawser at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="Profile for Kawser at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> |
+| ![Visitors](https://komarev.com/ghpvc/?username=khabib97&color=brightgreen) | <a href="https://stackoverflow.com/users/9457633/eyllanesc"><img src="https://stackoverflow.com/users/flair/9457633.png" width="208" height="58" alt="Profile for Habib at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="Profile for Habib at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> |
 
 <br/>
-⚡ Software Engineer.
-⚡ Backend Engineer.
-⚡ 8+ years. 
+<li> Software Engineer</li>
+<li> Backend Engineer</li>
+<li> 8+ years</li>
 <br />
 
-![Kawser's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khabib97&show_icons=true&theme=dracula)
+![Habib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khabib97&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khabib97&langs_count=7&hide=css&layout=compact)](https://github.com/khabib97/github-readme-stats)
 
 ### Languages and Tools:
